@@ -26,9 +26,9 @@ Created the custome middleware to handle the all API requests in the application
 
 ### Sample screens
 
-![Jobs List](docs/jobs-details.PNG)
-
 ![Jobs List](docs/jobs-list.PNG)
+
+![Jobs List](docs/jobs-details.PNG)
 
 ### Get it running
 Below are the steps to get it running.
